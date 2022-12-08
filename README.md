@@ -18,7 +18,7 @@
 ----|----|----
 1|[server-api](https://github.com/sleepy-wood/server-api)|RESTful API 서버
 2|[server-ai](https://github.com/sleepy-wood/server-ai)|인공지능 서버(TBD)
-3|[server-landing](https://github.com/sleepy-wood/server-ai)|랜딩 페이지 서버(TBD)
+3|[server-landing](https://github.com/sleepy-wood/server-landing)|랜딩 페이지 서버(TBD)
 
 ### AI
 
