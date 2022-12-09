@@ -2,6 +2,12 @@
 
 # Overview
 
+메타버스 아카데미 어쩌구
+
+최종 프로젝트가 어쩌구
+
+AI/CRE/NET/XR이 어쩌구
+
 ## Project List
 
 ### Client
