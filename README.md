@@ -9,7 +9,7 @@
 | 순번 | 프로젝트명                                                                  | 설명                |
 | ---- | --------------------------------------------------------------------------- | ------------------- |
 | 1    | [client-unity](https://github.com/sleepy-wood/client-unity)                 | Extended Reality    |
-| 2    | [client-unity-plugins](https://github.com/sleepy-wood/client-unity-plugins) | Unity + Apple Native Plugins |
+| 2    | [client-unity-plugins](https://github.com/sleepy-wood/client-unity-plugins) | Unity + iOS Native Plugins |
 | 3    | [client-web](https://github.com/sleepy-wood/client-web)                     | NFT Marketplace     |
 
 ### Server
