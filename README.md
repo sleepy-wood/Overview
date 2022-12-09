@@ -31,7 +31,7 @@
 
 | 순번 | 프로젝트명                                                                            | 설명                       |
 | ---- | ------------------------------------------------------------------------------------- | -------------------------- |
-| 1    | [infra-config](https://github.com/sleepy-wood/infra-config)                           | 인프라 설정                |
+| 1    | [infra-config](https://github.com/sleepy-wood/infra-config)                           | 인프라 세팅 임시                |
 | 2    | [server-infrastructure](https://github.com/sleepy-wood/server-infrastructure)         | aws 서버 인프라 설정       |
 | 3    | [nginx](https://github.com/sleepy-wood/nginx)                                         | aws 서버 nginx(Deprecated) |
 | 4    | [blockchain-smart-contract](https://github.com/sleepy-wood/blockchain-smart-contract) | smart contract             |
