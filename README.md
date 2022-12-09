@@ -25,7 +25,7 @@
 | 순번 | 프로젝트명                                                    | 설명                                        |
 | ---- | ------------------------------------------------------------- | ------------------------------------------- |
 | 1    | [ml-sleep](https://github.com/sleepy-wood/ml-sleep)           | 애플워치 실시간 수면탐지 인공지능 모델 생성 |
-| 2    | [data-analysis](https://github.com/sleepy-wood/data-analysis) | 기획 위한 데이터 분석                       |
+| 2    | [data-analysis](https://github.com/sleepy-wood/data-analysis) | 기획 및 애플워치 건강 데이터 분석                       |
 
 ### ETC
 
