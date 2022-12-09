@@ -17,6 +17,9 @@ AI/CRE/NET/XR이 어쩌구
 
 - 기간: 2022년 1월 17일 ~ 2022년 6월 15일, 5개월 (100일간 풀타임)
 - 구성: Level 1(6주, AI Basics) + Level 2(10주, AI Modeling) + Level 3(4주, End to End)
+- commit: 1억회
+- merge: 1천만회
+- count lines of code: 10억 line
 
 ## Project List
 
