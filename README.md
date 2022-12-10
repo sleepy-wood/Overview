@@ -14,8 +14,8 @@ AI/CRE/NET/XR이 어쩌구
 
 - 기간: 2022년 10월 01일 ~ 2022년 12월 01일, 2개월
 - 구성: 기획 + 프로토타입 + 알파 + 베타
-- commit: 1억회
-- merge: 1천만회
+- commit: 2,000+
+- merge: 100+
 - Count total lines of code across a GitHub organization
 ```bash
 -------------------------------------------------------------------------------
