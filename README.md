@@ -1,6 +1,6 @@
 ![banner](https://github.com/sleepy-wood/Overview/blob/main/Overview.png)
 
-# Overview
+# Sleepywood Github에 오신 것을 환영합니다 👋
 
 개인이 아니라 팀 협업을 통해 배우고 현실에 존재하는 문제를 해결하고자 본 프로젝트를 진행했습니다.
 
