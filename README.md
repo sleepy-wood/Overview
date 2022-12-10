@@ -10,16 +10,67 @@ AI/CRE/NET/XR이 어쩌구
 
 개인이 아니라 팀 협업을 통해 배우고 현실에 존재하는 문제를 해결하며 다함께 성장하는 학습 커뮤니티를 지향합니다
 
-## 솰라 솰라
+## Summary
 
-1) AI에 강한 호기심과 실험정신을 가지고 있으며, 이를 바탕으로 자기 주도적으로 성장하고 싶으신 분
-2) 끝을 보는 '덕질'의 성향을 AI 엔지니어로의 성장에 십분 발휘하고 싶으신 분을 240명 선발하여 교육을 진행했습니다.
-
-- 기간: 2022년 1월 17일 ~ 2022년 6월 15일, 5개월 (100일간 풀타임)
-- 구성: Level 1(6주, AI Basics) + Level 2(10주, AI Modeling) + Level 3(4주, End to End)
+- 기간: 2022년 10월 01일 ~ 2022년 12월 01일, 2개월
+- 구성: 기획 + 프로토타입 + 알파 + 베타
 - commit: 1억회
 - merge: 1천만회
-- count lines of code: 10억 line
+- Count total lines of code across a GitHub organization
+```bash
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Unity-Prefab                  1090             22              0        2288293
+CSV                             24           6088              0         224527
+C#                             899          30534          40409         176213
+TypeScript                     297           2842            358          74588
+SVG                             11              0            279          25509
+JSON                            44             68              0          24764
+XML                              9           2010              1          18955
+Text                            48            656              0           7467
+HLSL                            37            786           1598           5223
+Jupyter Notebook                 4              0           2389           5146
+YAML                            33            140            420           3618
+JavaScript                      11            223             15           1607
+CSS                              4            264              9           1535
+Markdown                        17            251              0            842
+Swift                            9            103            145            663
+Python                          16            157             10            620
+C/C++ Header                     5             54              4            266
+TOML                             2             22              0            109
+Solidity                         6             32             11             92
+Dockerfile                       6             29              0             60
+make                             4             11              1             53
+HTML                             2              0              1             30
+Objective-C++                    1              0              0              4
+C                                1              0              0              1
+-------------------------------------------------------------------------------
+SUM:                          2580          44292          45650        2860185
+-------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------
+Repository                   files          blank        comment           code
+-------------------------------------------------------------------------------
+client-unity                  2084          34063          41907        2504114
+data-analysis                   44           6211           1325         256048
+server-api                     211           1886            454          67848
+client-unity-plugins            39            247            251          13642
+client-web                     138           1553            145          11054
+blockchain-smart-contract       18             57             12           3377
+server-infrastructure           16             55            138           2878
+ml-sleep                         8             68           1353            556
+server-ai                        9             46             48            220
+blockchain-sample                3             30              8            150
+infra-config                     5             19              9            133
+.github                          2             25              0             62
+Overview                         1             18              0             43
+nginx                            1              7              0             30
+server-landing                   1              7              0             30
+-------------------------------------------------------------------------------
+SUM:                          2580          44292          45650        2860185
+-------------------------------------------------------------------------------
+```
 
 ## Project List
 
@@ -57,5 +108,6 @@ AI/CRE/NET/XR이 어쩌구
 | 5    | [blockchain-sample](https://github.com/sleepy-wood/blockchain-sample)                 | 블록체인 샘플 코드 정리    |
 
 ## Contact
-* 홈페이지: https://github.com/sleepy-wood
-* 문의: dlsdudg15@naver.com
+
+- 홈페이지: https://github.com/sleepy-wood
+- 문의: dlsdudg15@naver.com
