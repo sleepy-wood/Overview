@@ -56,6 +56,6 @@ AI/CRE/NET/XR이 어쩌구
 | 4    | [blockchain-smart-contract](https://github.com/sleepy-wood/blockchain-smart-contract) | smart contract             |
 | 5    | [blockchain-sample](https://github.com/sleepy-wood/blockchain-sample)                 | 블록체인 샘플 코드 정리    |
 
-## End
+## Contact
 * 홈페이지: https://github.com/sleepy-wood
 * 문의: dlsdudg15@naver.com
